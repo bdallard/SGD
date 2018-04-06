@@ -14,9 +14,13 @@ pip install -r requirements.txt
 
 ## Graphics 
 
-By the way you can see two graphics here, one for the trainig curve  and the other one for the regression. 
+By the way you can see two graphics here. 
 
+One for the loss curve.  
 ![Loss](loss.png)
+
+And the other one for the regression.
+![Result](result.png)
 
 ## Authors
 
