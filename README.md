@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 By the way you can see two graphics here, one for the trainig curve  and the other one for the regression. 
 
+![Loss](loss.png)
+
 ## Authors
 
 * **Benjamin Dallard** 
