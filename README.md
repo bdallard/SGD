@@ -1,6 +1,7 @@
 # SGD
 
-Stochatic gradiant descent (SGD) Algorithm project for my engineering degree in mathematical engineering and computer science. 
+Stochatic gradiant descent (SGD) Algorithm project for my engineering degree. 
+
 
 ## Prerequisites
 
