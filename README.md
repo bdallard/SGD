@@ -24,7 +24,3 @@ And the other one for the regression.
 ![Result](result.png)
 
 
-## License
-This project is not under licence. 
-
-
