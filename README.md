@@ -23,12 +23,6 @@ One for the loss curve.
 And the other one for the regression.
 ![Result](result.png)
 
-## Authors
-
-* **Benjamin Dallard** 
-
-You can know more about me at www.dallard.tech 
-
 
 ## License
 This project is not under licence. 
